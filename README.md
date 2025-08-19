@@ -5,6 +5,14 @@ It answers key business questions, highlights customer behavior, and provides ac
 
 ---
 
+## 📈 Dashboard Preview
+
+Below is the interactive dashboard that summarizes the analysis:
+
+![Report Charts](Report_Charts.jpeg)
+
+---
+
 ## 📊 Project Overview
 
 The dataset contains detailed information about customer orders, sales channels, product categories, and demographics.  
@@ -17,14 +25,6 @@ The goal is to extract **valuable insights** for decision-making and growth stra
 - **Microsoft Excel** – For data cleaning, analysis, and dashboard creation  
 - **Pivot Tables & Charts** – To summarize data and answer business questions  
 - **Slicers & Filters** – For dynamic report interaction  
-
----
-
-## 📈 Dashboard Preview
-
-Below is the interactive dashboard that summarizes the analysis:
-
-![Report Charts](Report_Charts.jpeg)
 
 ---
 
